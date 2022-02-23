@@ -21,7 +21,7 @@ break;
 case 4:today="Thursday";
 break;
 case 5:today="Friday";
-//break;
+break;
 case 6:today="Saturday";
 break;
 case 7:today="Sunday";
